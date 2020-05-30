@@ -1,0 +1,17 @@
+#footer{
+  position: fixed; 
+  padding: 5px; 
+  bottom: 0; 
+  width: 100%;   
+  height: 40px; 
+  background: #FFFFFF;
+  text-align:center ;
+  clear:both
+}
+#footer a{
+  color:#BDCA3F;
+}
+#footer a:hover{
+  color:#000000;
+  text-decoration:Underline;
+}

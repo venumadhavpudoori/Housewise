@@ -1,0 +1,12 @@
+.contacts-link{
+    list-style-type: none;
+    margin-left:-40px;
+}
+.contacts-link .fa{
+    color:#008000;
+    font-size:23px;
+    font-weight:400;
+}
+.contacts-link li{
+    margin-bottom:20px;
+}

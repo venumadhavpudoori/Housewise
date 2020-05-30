@@ -1,0 +1,72 @@
+#color-nav{
+  background-color:#ffffff;
+}
+
+.logo{
+    width: 90px;
+    height: 70px;
+}
+
+.button {
+  border: none;
+  background-color:#8DC63E;
+  border-radius: 5px;
+  color: white;
+  padding: 12px 20px;
+  text-transform:capitalize;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-family: "Varela Round", sans-serif;
+  font-size: 15px;
+  font-weight:600;
+  margin: 4px 12px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+.button:hover {
+  background-color:#8CC63E;
+
+}
+#basic-nav{
+  float: left;
+  font-family: "Varela Round", sans-serif;
+  font-size: 15px;
+  font-weight:700;
+  color:#65676B;
+  padding:12px 12px;
+  margin:0 5px;
+}
+#basic-nav:hover {
+  background-color:#8DC63E;
+  color:#ffffff;
+}
+.login-link{
+  color:#65676B;
+  font-family:'Varela Round', sans-serif ;
+  font-size: 14px;
+  font-weight:400;
+}
+.login-link:hover{
+  color:#8cc63f;
+  text-decoration:underline;
+}
+
+.contact-links{
+  list-style-type:none;
+  margin-top:-30px;
+  font-family:'Varela Round', sans-serif ;
+  font-size: 12px;
+  font-weight:600;
+}
+.contact-links li{
+  color:#000000;
+  text-align: right;
+  margin-bottom:-10px;
+
+}
+.contact-links li:hover{
+  color:#8cc63f;  
+  text-decoration:underline;
+
+}

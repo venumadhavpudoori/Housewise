@@ -1,0 +1,63 @@
+.masthead {
+    text-align:center;
+    color:#fff;
+    background-image:linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),  url( ../../assets/franhogan.jpg );
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-position:center center;
+    background-size:cover;
+    opacity:0.8;
+}
+.intro-text{
+    padding:75px;
+}
+.intro-lead-in{
+  font-family:Roboto, sans-serif;
+  font-size:50px;
+  font-weight:700;
+}
+.intro-lead-out{
+  font-family:Roboto, sans-serif;
+  font-size:50px;
+  font-weight:700;
+  margin-top:-30px;
+  margin-bottom:25px;
+}
+.intro-heading{
+  font-family:Roboto, sans-serif;
+  font-size:18px;
+  font-weight:400;
+}
+.intro-contact{
+  font-family:Roboto, sans-serif;
+  font-size:14px;
+  font-weight:700;
+  color:#8DC63F;
+}
+.intro-contact:hover{
+  font-family:Roboto, sans-serif;
+  font-size:14px;
+  font-weight:700;
+  color:#000000;
+  text-decoration:underline;
+  cursor:pointer;
+}
+.btn {
+  background-color: #6F9D30; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 10px 12px;
+  cursor: pointer;
+}
+
+.intro-places{
+  font-family: Helvetica, sans-serif;
+  font-size:24px;
+  font-weight:500;
+  color:#ffffff;
+}

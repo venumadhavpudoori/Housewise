@@ -1,0 +1,20 @@
+.whyhousewise-section-heading{
+    font-family:"Varela Round",sans-serif;
+    font-size:30px;
+    font-weight:500;
+    text-align:center;
+    color:#333333;
+}
+.col-lg-6 h3{
+    font-family:"Varela Round",sans-serif;
+    font-size:25px;
+    font-weight:500;
+    color:#333333;
+}
+.col-lg-6 p{
+    font-family:"Varela Round",sans-serif;
+    font-size:14px;
+    font-weight:400;
+    color:#333333;
+    text-align: justify;
+}

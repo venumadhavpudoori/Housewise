@@ -1,0 +1,55 @@
+.counter-section {
+    background-image:linear-gradient(rgba(0, 0, 0, 0.212), rgba(0, 0, 0, 0.377)),  url(../../assets/listings-parallax.jpg);
+    background-repeat:no-repeat;
+    background-attachment:relative;
+    background-position:center center;
+    background-size:cover;
+  }
+
+  .counter-section .counter {
+    padding: 50px 10px;
+  }
+  
+  .counter-section .counter .icon {
+    margin-bottom: 30px;
+  }
+  
+  .counter-section .counter .icon i {   
+    font-size: 80px;
+    font-weight: 400;
+    color: #fff;
+  }
+  
+  .counter-section .counter p {
+    font-family:'Varela Round', sans-serif;
+    font-size: 20px;
+    color: #9D9E9E;
+    font-weight: 400;
+    margin: 10px 0;
+  }
+  
+  .counter-section .counter .counterUp {
+    font-family:'Varela Round', sans-serif;
+    color: #fff;
+    font-size: 36px;
+    margin-top: 15px;
+    font-weight: 700;
+  }
+  /* .line-border{
+        width:40px;
+        height:20px;
+        position:relative;
+   }
+  .line-border:before {
+        content:"";
+        width:1px;
+        height:100%;
+        display:block;
+        position:absolute;
+        background-image: -webkit-linear-gradient(top, #000,#fff, #000);
+        background-image: -moz-linear-gradient(top, #000,#fff, #000);
+        background-image: -ms-linear-gradient(top, #000,#fff, #000);
+        background-image: -o-linear-gradient(top, #000,#fff, #000);
+        background-image: linear-gradient(top, #000, #fff,#000);
+   } */
+  

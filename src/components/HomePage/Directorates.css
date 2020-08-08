@@ -1,0 +1,66 @@
+#founder {
+  display: flex;
+  align-items: center;  
+}
+#founder img{
+  display: block;
+  margin: auto;
+}
+#founder figcaption {
+   font-family:"Varela Round" ,sans-serif;
+    font-size:24px;
+    font-weight:500;
+    color:#333333;
+    text-align:center;  
+}
+#founder figcaption:last-child	 {
+  font-family:"Varela Round" ,sans-serif;
+   font-size:14px;
+   font-weight:400;
+   color:#333333;
+   text-align:center;  
+}
+#advisory{
+  display: flex;
+  align-items: center;
+}
+#advisory img{
+  display: block;
+  margin: auto;
+}
+#advisory figcaption {
+  font-family:"Varela Round" ,sans-serif;
+   font-size:24px;
+   font-weight:500;
+   color:#333333;
+   text-align:center;  
+}
+#advisory figcaption:last-child	 {
+  font-family:"Varela Round" ,sans-serif;
+   font-size:14px;
+   font-weight:400;
+   color:#333333;
+   text-align:center;  
+}
+.team-heading {
+    font-family:"Varela Round" ,sans-serif;
+    font-size:30px;
+    font-weight:500;
+    color:#333333;
+    text-align:center;
+}
+.team-text{
+    text-align: justify;
+    position: relative;
+    animation-name: example;
+    animation-duration: 4s;
+    animation-iteration-count: 2;
+  }
+  
+  @keyframes example {
+    0%   { color:#a1949459; left:0px; top:0px;}
+    25%  { color:#999292e7; left:200px; top:0px;}
+    100% { color:#575757; left:0px; top:0px;}
+  }
+  
+ 

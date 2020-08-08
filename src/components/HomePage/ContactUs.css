@@ -1,12 +1,57 @@
+.contact-heading{
+    font-family:'Varela Round',sans-serif;
+    font-size:30px;
+    font-weight:500;
+    color:#000000;
+    text-align:center;
+}
+.contact-column-heading{
+   font-family:'Varela Round',sans-serif;
+   font-size:22px;
+   font-weight:500;
+   color:#000000;
+}
 .contacts-link{
-    list-style-type: none;
-    margin-left:-40px;
+    display:flex;
+    margin-bottom:30px;
 }
 .contacts-link .fa{
-    color:#008000;
-    font-size:23px;
-    font-weight:400;
+  font-size: 30px;
+  font-weight: 700;
+  margin-right: 30px;
+  display: block;
+  color: #6F9D30;
 }
-.contacts-link li{
-    margin-bottom:20px;
+.contacts-link p:nth-child(1){
+    margin-top:-2px;
+}
+.contacts-link p:nth-child(2){
+    margin-top:-20px;
+}
+
+.connect-socialMedia li{
+    display: inline;
+    margin: 5px;
+    padding: 9px 14px;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 50%;
+    color: #6F9D30;
+}
+.connect-socialMedia .fa:hover{
+    color: #000000;
+}
+#cites-hover  {
+    font-family:'Varela Round',sans-serif;
+    font-size:24px;
+    font-weight:400;
+    color:#837a7a;
+    width: 350px;
+}
+#cites-hover:hover  {
+    font-family:'Varela Round',sans-serif;
+    font-size:24px;
+    font-weight:400;
+    color:#6F9D30;
+    width: 350px;
 }

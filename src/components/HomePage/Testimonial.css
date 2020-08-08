@@ -1,0 +1,39 @@
+.testimonial-heading{
+  font-family:"Varela Round", sans-serif;
+  font-size:30px;
+  font-weight:500;
+  text-align: center;
+  margin: 90px;
+}
+#persons-bio {
+    display: flex;
+    align-items: center;
+}
+#persons-bio img{
+    display: block;
+    margin: auto;
+  }
+#persons-bio figcaption {
+    font-family:"Varela Round" ,sans-serif;
+     font-size:18px;
+     font-weight:500;
+     color:#333333;
+     text-align:center;  
+}
+#persons-bio figcaption:last-child	 {
+    font-family:"Varela Round" ,sans-serif;
+     font-size:14px;
+     font-weight:500;
+     color:#333333;
+     text-align:center;  
+}
+#persons-bio .fa{
+    color: #8DC63F;
+}
+#persons-bio p{
+     font-family:"Varela Round" ,sans-serif;
+     font-size:14px;
+     font-weight:400;
+     color:#333333;
+     text-align:justify;
+}

@@ -1,0 +1,30 @@
+.login-heading{
+  margin-top:30px;
+  font-family: Varela Round, sans-serif;
+  font-size:30px;
+  font-weight:500;
+  color:#333333;
+}
+.google-button{
+  margin-left: 180px;
+  padding: 10px 64px;
+  font-family: Varela Round, sans-serif;
+  font-size:14px;
+  font-weight:500;
+  background-color: #CF4332;
+  color:#ffffff;
+  cursor: pointer;
+
+}
+  
+.tab-style{
+    color: #fff;
+}
+.security-notify{
+  margin-top:30px;
+  font-family: Varela Round, sans-serif;
+  font-size:14px;
+  font-weight:500;
+  color: #f03723;
+}
+  

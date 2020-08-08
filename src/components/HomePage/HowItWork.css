@@ -1,0 +1,31 @@
+.howItWorks-heading {
+    font-family:"Varela Round" ,sans-serif;
+    font-size:30px;
+    font-weight:500;
+    color:#333333;
+    text-align:center;
+}
+.steps {
+    font-family:"Varela Round" ,sans-serif;
+    font-size:23px;
+    font-weight:500;
+    color:#333333;
+    text-align:center;
+    padding: 5px;
+}
+.text {
+    font-family:"Varela Round" ,sans-serif;
+    font-size:14px;
+    font-weight:500;
+    color:#333333;
+    text-align: justify;
+    padding: 5px 30px;
+}
+#column-effects {
+    cursor: pointer;
+    padding:30px 0;
+    
+  }
+#column-effects:hover {
+    background: linear-gradient(45deg, #5d960e, #c3f878bd);
+  }

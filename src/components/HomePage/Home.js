@@ -7,6 +7,9 @@ import Testimonial from './Testimonial';
 import NewsFeed from './NewsFeed';
 import ContactUs from './ContactUs';
 import WhyHousewise from './WhyHousewise';
+import IndexButton from './IndexButton';
+import Counter from './Counter';
+import Footer from '../Footer/Footer';
 
 
 
@@ -19,12 +22,15 @@ class Home extends Component {
             <div>
              <Banner /> 
              <Services /> 
+             <Counter />
              <HowItWork /> 
              <Directorates />
              <Testimonial />
              <NewsFeed />
              <ContactUs />
+             <IndexButton />
              <WhyHousewise />
+             <Footer />
             </div>
         );
     }
